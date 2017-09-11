@@ -1,0 +1,50 @@
+.title {
+  background-color: darkgray;
+}
+#content {
+  float: right;
+  width: 80%;
+}
+#sidebar {
+  float: left;
+  width: 50%
+}
+title {
+  font-family: "cursive";
+}
+h1 {
+  color: darkgreen;
+  font-family: "futura";
+  font-size: 50px;
+  border: 15px solid black;
+  padding: 15px;
+  margin: auto;
+  text-align: center;
+}
+h2 {
+  border: 5px dashed black;
+  margin: auto;
+  text-align: center;
+}
+html {
+  background-color: white;
+}
+p{font-family: "arial";}
+tr{font-size: 20px;}
+th {
+  border: 5px solid black;
+  padding: 15px;
+
+}
+table{
+  margin: auto;
+  padding: 5px;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: auto;
+}
+.uncentered{
+  display: initial;
+}
